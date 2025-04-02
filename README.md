@@ -1,3 +1,3 @@
 # Data-Analysis-Tools
-Basic statistics managing 5 examples , compleated using " Google Colab " " Jupyer "- notebook ".
+5 examples of statistic solutions , compleated using " Google Colab " " Jupyer "- notebook ".
 Baltic Technology Institute
